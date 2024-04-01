@@ -1,5 +1,3 @@
-// just solution for code
-
 class Solution
 {
 public:
@@ -26,5 +24,6 @@ public:
                 left++;
             }
         }
+        return false;
     }
 };
